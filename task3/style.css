@@ -4,13 +4,15 @@
     width: 500px;
 }
 
-.card {
-    width: 400px;
+..card {
+    width: 1024px;
     margin: 20px;
 }
 
 .card-image {
     display: block;
+    width: 900px;
+    height: 600px;
 }
 
 .btn {

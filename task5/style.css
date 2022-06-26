@@ -5,12 +5,14 @@
 }
 
 .card {
-    width: 400px;
+    width: 1024px;
     margin: 20px;
 }
 
 .card-image {
     display: block;
+    width: 900px;
+    height: 600px;
 }
 
 .btn {
